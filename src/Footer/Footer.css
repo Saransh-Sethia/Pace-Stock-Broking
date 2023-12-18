@@ -1,0 +1,33 @@
+.footer-section{
+    padding-top: 50px;
+    height: 55vh;
+    background-color: #ccc5f5;
+}
+
+.heading-footer{
+    font-size: 40px;
+    text-align: center;
+}
+
+.paragraph{
+    padding-top: 40px;
+    text-indent: 25px;
+    text-align: center;
+    letter-spacing: 3px;
+}
+
+.footer-bottom{
+    padding-top: 55px;
+    font-size: 15px;
+    text-align: center;
+    gap: 10px;
+    padding-bottom: 40px;
+}
+.portfolio{
+    text-decoration: none;
+    border: 1px solid #111111;
+    color: #ffffff;
+    background-color: #111111;
+    padding: 5px 10px;
+    border-radius: 5px;
+}

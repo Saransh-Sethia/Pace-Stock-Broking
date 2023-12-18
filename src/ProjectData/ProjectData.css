@@ -1,0 +1,47 @@
+.project-data{
+    padding-top: 25px;
+    padding-bottom: 25px;
+    padding-left: 100px;
+    background-color:  #7ea6c2;
+}
+
+.repo-links{
+    margin-top: 25px;
+    display: flex;
+    justify-content: flex-start;
+    gap: 25px;
+}
+
+.clone, 
+.repo{
+    text-decoration: none;
+    color: #adabab;
+    border: 1px solid #adabab;
+    background-color: #ffffff;
+    padding: 10px 15px;
+    border-radius: 8px;
+    
+}
+
+.clone:hover, 
+.repo:hover{
+    text-decoration: none;
+    color: #ffffff;
+    border: 1px solid  aliceblue;
+    background-color: #adabab;
+    padding: 10px 15px;
+}
+
+.languages{
+    padding-top: 15px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.recent-projects{
+    padding-top: 25px;
+    padding-bottom: 40px;
+    font-size: 75px;
+    display: flex;
+    justify-content: center;
+}
